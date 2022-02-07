@@ -1,1 +1,1 @@
-# 1823_DOM
+Curso da Alura - JavaScript na Web: Manipule o DOM com JavaScript
